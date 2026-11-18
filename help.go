@@ -14,7 +14,7 @@ import (
 func New() *sdk.Plugin {
 	p := sdk.NewPlugin()
 	p.Command("help").Description("List available commands").Handle(func(c *sdk.Context) error {
-		entries, err := command.List(c.Context())
+		entries, err := command.List(c)
 		if err != nil {
 			return err
 		}
