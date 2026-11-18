@@ -1,0 +1,14 @@
+{
+  "messages": {
+    "help.title": "可用命令：",
+    "help.empty": "当前没有可用命令。",
+    "help.line": "{names}",
+    "help.line.description": "{names} — {description}",
+    "help.whoami": "用户：{user}\n实例：{instance}",
+    "help.whoami.no_actor": "这条消息没有用户身份。"
+  },
+  "commands": {
+    "help": {"description": "列出可用命令"},
+    "whoami": {"description": "显示你的用户 ID 与实例名"}
+  }
+}

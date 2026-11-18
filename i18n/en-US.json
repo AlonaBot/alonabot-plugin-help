@@ -1,0 +1,10 @@
+{
+  "messages": {
+    "help.title": "Available commands:",
+    "help.empty": "No commands are available.",
+    "help.line": "{names}",
+    "help.line.description": "{names} — {description}",
+    "help.whoami": "User: {user}\nInstance: {instance}",
+    "help.whoami.no_actor": "This message has no user identity."
+  }
+}

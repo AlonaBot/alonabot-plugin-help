@@ -1,0 +1,8 @@
+# 官方 help 插件的工程身份。
+id: alonabot_plugin_help_official
+name: Help
+version: 0.1.0
+author: AlonaBot
+role: plugin
+source: github.com/AlonaBot/AlonaBot
+description: List available commands and show your user ID and instance
