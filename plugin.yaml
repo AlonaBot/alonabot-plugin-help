@@ -4,5 +4,5 @@ name: Help
 version: 0.1.0
 author: AlonaBot
 role: plugin
-source: github.com/AlonaBot/AlonaBot
+source: github.com/AlonaBot/alonabot-plugin-help
 description: List available commands and show your user ID and instance
